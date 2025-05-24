@@ -1,0 +1,8 @@
+/* CSS customizado (opcional) */
+body {
+  background-color: #bfcff2;
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(0, 0, 0, 0.075);
+}
